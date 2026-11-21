@@ -92,7 +92,7 @@ Here is a practical Linux Commands Cheat Sheet for DevOps Engineers. use this as
     
     • apt / dnf / pacman. Installs, updates, and removes software packages depending on your distribution (Debian/Ubuntu, RHEL/Fedora, or Arch).
 
-
+7. Linux directory structure
 <img width="900" height="490" alt="image" src="https://github.com/user-attachments/assets/50a36fcd-a18f-4598-8f9d-eb78a1ae641d" />
 
    
